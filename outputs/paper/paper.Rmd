@@ -2,7 +2,7 @@
 title: "Personal Wellbeing and Social Experiences in Australia during the COVID-19 Pandemic"
 author: 
   - Bu Xu
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/Bulilian/DataTelling"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 abstract: "General Social Survey (GSS) is a survey related to the sociological life of citizens and monitoring social changes.  It covers various topics that correlate with many factors including sex, age and health characteristics. Because of the COVID-19 pandemic in 2019 and 2020, Australia's General Social Survey was conducted via the internet and phones. We want to focus our study more on the factors that influence people's well-being and generate a model that can illustrate a visualized and scientific conclusion. The remainder of this paper is Section \\@ref(data) explains the data. Section \\@ref(model) demonstrates the relationship between people's social experiences and related factors. As for Section \\@ref(results), it covers the results of the findings related to the model in section model. In Section \\@ref(discussion), 3 points are discussed."
 output: 
